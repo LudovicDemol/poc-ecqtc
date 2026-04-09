@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+qdrant-client>=1.9.0
+pydantic
+python-multipart
+pypdf
+regex
+requests
+beautifulsoup4
+lxml
+trafilatura
